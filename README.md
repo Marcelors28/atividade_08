@@ -72,7 +72,8 @@ atividade08/
 
 ## Tecnologias Utilizadas
 
-- JAVA: Lógica para controlar os inputs e demais componentes da aplicação.
+- JAVA 17: Lógica para controlar os inputs e demais componentes da aplicação.
+- Intelij IDEA : IDE para desenvolver a atividade.
 
 
 ## Como Visualizar o Projeto Localmente
@@ -88,9 +89,9 @@ https://github.com/Marcelors28/atividade_08.git
 cd atividade_08
 ```
 
-3. Inície a IDE.
+3. Inície o Intelij IDEA.
 
-4. Execute o projeto.
+4. Execute os exercícios, executando as classes individuais.
 
 
 ## Licença
